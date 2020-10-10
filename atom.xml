@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.shouxinxiang.com</id>
     <title>收信箱-在线接码网站推荐</title>
-    <updated>2020-10-09T03:55:52.765Z</updated>
+    <updated>2020-10-10T10:11:58.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.shouxinxiang.com"/>
     <link rel="self" href="https://blog.shouxinxiang.com/atom.xml"/>
@@ -10,6 +10,21 @@
     <logo>https://blog.shouxinxiang.com/images/avatar.png</logo>
     <icon>https://blog.shouxinxiang.com/favicon.ico</icon>
     <rights>All rights reserved 2020, 收信箱-在线接码网站推荐</rights>
+    <entry>
+        <title type="html"><![CDATA[2020年底10月羊毛福利-滴滴青桔单车]]></title>
+        <id>https://blog.shouxinxiang.com/post/2020-nian-di-10-yue-yang-mao-fu-li-di-di-qing-jie-dan-che/</id>
+        <link href="https://blog.shouxinxiang.com/post/2020-nian-di-10-yue-yang-mao-fu-li-di-di-qing-jie-dan-che/">
+        </link>
+        <updated>2020-10-10T02:06:03.000Z</updated>
+        <content type="html"><![CDATA[<p>可以实现2个月特价羊毛4.02元<br>
+条件：招商银行app，下载后可以绑定其他银行卡，不一定要招商卡。<br>
+滴滴购买骑行卡支付的时候选择：一网通银行卡支付</p>
+<p>调起招商银行app进行支付，会可见到1.49元优惠，<br>
+相当于0.51元包月31天。</p>
+<p>之后再开一个月5元的，同样选择一网通扣费优惠，即可在3.51元支付</p>
+<figure data-type="image" tabindex="1"><img src="https://blog.shouxinxiang.com/post-images/1602324706915.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[国庆节后接码群已满]]></title>
         <id>https://blog.shouxinxiang.com/post/guo-qing-jie-hou-jie-ma-qun-yi-man/</id>
@@ -128,21 +143,6 @@
 <p>积分用途:</p>
 <p>兑换京东或者京东E卡</p>
 <p>亮点；5g，双核。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[羊毛福利-顺丰10元券-中国银行App]]></title>
-        <id>https://blog.shouxinxiang.com/post/yang-mao-fu-li-shun-feng-10-yuan-quan-zhong-guo-yin-xing-app/</id>
-        <link href="https://blog.shouxinxiang.com/post/yang-mao-fu-li-shun-feng-10-yuan-quan-zhong-guo-yin-xing-app/">
-        </link>
-        <updated>2020-08-28T09:32:09.000Z</updated>
-        <content type="html"><![CDATA[<p>条件：有中国银行卡<br>
-下载中国银行app<br>
-进入生活页面<br>
-切换到石家庄<br>
-即可以1元钱购买10元顺丰优惠券。</p>
-<p>有效期：半年<br>
-以你的app注册号码相同。</p>
 ]]></content>
     </entry>
 </feed>
